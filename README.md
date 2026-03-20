@@ -3,4 +3,10 @@
 
  ## Config
 > [!IMPORTANT]
-> NApartir da linha 200, estão os parâmetros de configuração. Adicione sua API Key, da Claude AI.
+> Apartir da linha 200, estão os parâmetros de configuração. Adicione sua API Key, da Claude AI.
+
+ ´´´# ============================================
+# CONFIGURAÇÕES
+# ============================================
+CONFIG = {
+    "api_key": "",´´´
